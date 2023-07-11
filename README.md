@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors
+# A way to play rock, paper, scissors on your terminal, you can go as many rounds as you want, and after you finish, it'll tell you the number of rounds you played, the number of rounds you won, and your win rate.
